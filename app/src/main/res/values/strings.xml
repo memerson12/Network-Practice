@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Network Practice</string>
+    <string name="avatar_image_description">User Avatar</string>
+    <string name="default_name">John Doe</string>
+</resources>
